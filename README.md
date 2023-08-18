@@ -1,4 +1,4 @@
-# deep-learning-based-controller-design-
+# Deep Learning Based Controller Design
 
 Presence of model uncertainties creates challenges for model-based control design, and complexity of the control design is further exacerbated when
 coping with nonlinear systems. This code presents a sliding mode control (SMC) design approach for nonlinear systems with partially known dynamics
